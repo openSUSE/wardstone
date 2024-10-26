@@ -22,7 +22,7 @@ categories = [
 ]
 
 [dependencies]
-clap = { version = "4.4", features = ["derive"] }
+clap = { version = "4.5", features = ["derive"] }
 once_cell = "1.19"
 openssh-keys = "0.6"
 openssl = "0.10"
