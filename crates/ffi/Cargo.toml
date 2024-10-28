@@ -11,4 +11,4 @@ crate-type = ["cdylib", "staticlib"]
 wardstone_core = { path = "../core" }
 
 [build-dependencies]
-cbindgen = "0.26.0"
+cbindgen = "0.27.0"
