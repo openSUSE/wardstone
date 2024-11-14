@@ -1,6 +1,6 @@
 # `wardstone`
 
-![Continuous Integration](https://github.com/tshakalekholoane/wardstone/actions/workflows/ci.yaml/badge.svg)
+![Continuous Integration](https://github.com/openSUSE/wardstone/actions/workflows/ci.yaml/badge.svg)
 
 The `wardstone` project aims to create a library that can be used across different programming languages via a foreign function interface and a command line utility that users can run against their existing keys to detect conformance to varying cryptographic key standards and research publications.
 
